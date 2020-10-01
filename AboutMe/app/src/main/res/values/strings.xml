@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="name">Dustin Waldron</string>
+    <string name="yellow_star">Yellow Start</string>
+    <string name="bio_text">\t Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. \n\t Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\t Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. \n\t Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n</string>
 </resources>
