@@ -15,6 +15,12 @@ class TitleFragment : Fragment() {
         binding.playButton.setOnClickListener {
             view?.findNavController()?.navigate(R.id.action_titleFragment_to_gameFragment)
         }
+        binding.aboutButton.setOnClickListener {
+            view?.findNavController()?.navigate(R.id.action_titleFragment_to_aboutFragment)
+        }
+        binding.rulesButton.setOnClickListener {
+            view?.findNavController()?.navigate(R.id.action_titleFragment_to_rulesFragment)
+        }
         setHasOptionsMenu(true)
         return binding.root
     }
